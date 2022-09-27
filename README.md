@@ -1,0 +1,1 @@
+# Entropy-of-permutation-with-3-dimension-in-python
